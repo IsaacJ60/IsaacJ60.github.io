@@ -6,4 +6,4 @@ order: 4
 
 Hi, I'm Isaac. I copied Alan's site!
 
-https://alanbui1.github.io/math-blog/
+[https://alanbui1.github.io/math-blog/](https://alanbui1.github.io/math-blog/)
