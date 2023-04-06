@@ -8,7 +8,7 @@ tags: [resources]     # TAG names should always be lowercase
 # Epic Resources Here!
 
 ### Course Resources:
-- [Github Repo](https://github.com/IsaacJ60/school/tree/master/Highschool/Grade%2011)
+- [GitHub Repo](https://github.com/IsaacJ60/school/tree/master/Highschool/Grade%2011)
 
 ### Contests:
 - [Watermoo Stuff Practice](https://www.cemc.uwaterloo.ca/contests/past_contests.html)
