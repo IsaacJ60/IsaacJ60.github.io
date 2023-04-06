@@ -21,6 +21,7 @@ tags: [resources]     # TAG names should always be lowercase
 
 - Git Stuff: https://cs50.harvard.edu/web/2020/notes/1/
 - Gr11 Pygame Template Code:
+
 ```
 from pygame import *
 
@@ -51,6 +52,7 @@ quit()
 - Python and Pygame Site: http://programarcadegames.com/index.php
 
 - Java File Picker
+
 ```
 import javax.swing.*;
 import java.util.*;
@@ -84,6 +86,7 @@ public class FilePick extends JFrame implements ActionListener{
 }
 ```
 - Baseframe (Swing Graphics)
+
 ```
 /* ----------------------------------------------------------------------------------
  * BaseFrame.java
