@@ -5,7 +5,7 @@ categories: [School]
 tags: [resources]     # TAG names should always be lowercase
 ---
 
-# Epic Resources Here!
+# Resources
 
 ### Course Resources:
 - [GitHub Repo](https://github.com/IsaacJ60/school/tree/master/Highschool/Grade%2011)
@@ -16,6 +16,9 @@ tags: [resources]     # TAG names should always be lowercase
 
 ### Free Student Resources:
 - https://github.com/kamath/student-free-stuff
+
+### Puzzles and Mind-Sharpeners:
+- http://intrologic.stanford.edu/teachers/puzzles.php
 
 ## CS Resources:
 
