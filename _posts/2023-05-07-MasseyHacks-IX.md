@@ -23,4 +23,18 @@ pip install genanki
 pip install uuid
 ``
 
-Download compressed zip file of repository.
+Then, download compressed zip file of [repository](https://github.com/IsaacJ60/masseyhacksIX).
+
+Extract the contents to a new folder.
+
+You will also need to generate an API KEY from OpenAI's website.
+
+Once generated, take the API KEY and copy it into ``API_KEY.txt``
+
+Finally, run ``PowerNote.java``
+
+
+_Notes:_
+- _conversions may take up to 1 minute depending on internet speed_
+- _if ChatGPT is blocked on your WiFi network, the program will not execute correctly_
+
