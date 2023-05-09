@@ -1,11 +1,11 @@
 ---
-title: High School Opportunities
+title: High School Programs
 date: 2023-04-18 19:00:00 -0500
 categories: [School, Enrichment]
 tags: [resources]     # TAG names should always be lowercase
 ---
 
-# High School Opportunities
+# High School Programs
 
 ### Paid
 
