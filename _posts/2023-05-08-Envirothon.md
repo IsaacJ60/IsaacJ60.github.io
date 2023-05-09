@@ -1,5 +1,5 @@
 ---
-title: MasseyHacks IX - PowerNote
+title: Envirothon - Environmentally Themed Competition
 date: 2023-05-07 11:00:00 -0500
 categories: [Blogs, Competitions]
 tags: [envirothon, inspirit]     # TAG names should always be lowercase
