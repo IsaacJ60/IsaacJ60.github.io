@@ -11,4 +11,4 @@ tags: [class]     # TAG names should always be lowercase
 
 - Change adventure game to have for loops and while loops. Make a separate file for each version!
 - Keep practicing your If-Statements. Change up your if statements in your game, or add different questions to ask. (E.g., Instead of asking how old someone is, ask a true/false question!)
-- No DMOJ homework questions this week!
+- No DMOJ homework questions this week! 
