@@ -62,11 +62,14 @@ else:
 ## Homework
 
 - Have fun doing DMOJ: https://dmoj.ca/problem/valentines19j1 (For this question, it's just a combination of using a loop and some if statements. The first number is just how many numbers you have to loop through. So for example, if the first number is 5, you have check 5 numbers and print out their rank). Here is some starter code for the DMOJ question:
+
 ```
 number_of_ranks = int(input())
 
 for i in range(number_of_ranks):
   # do if statements and print out their rank!
+
 ```
+
 - If-Statement Practice Test Problems
 - Try this one: https://dmoj.ca/problem/ccc21j2
