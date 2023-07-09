@@ -73,3 +73,19 @@ for i in range(number_of_ranks):
 
 - If-Statement Practice Test Problems
 - Try this one (slightly harder): [CCC Junior Question](https://dmoj.ca/problem/ccc21j2)
+
+# Lesson 5 - Loops & Lists
+
+## Homework
+
+DMOJ Questions:
+- [Max Flow](https://dmoj.ca/problem/acmtryouts0a) 
+- [A Plus B](https://dmoj.ca/problem/aplusb)
+- [Sorting](https://dmoj.ca/problem/a4b1)
+
+Code for taking in single line input:
+
+```
+a, b = map(int, input().split())
+
+```
